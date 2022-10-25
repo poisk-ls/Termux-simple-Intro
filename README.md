@@ -13,8 +13,8 @@
 - git clone https://github.com/poisk-ls/Termux-simple-intro.git
 - ls
 - cd termux-intro
-- chmod +x intro.sh
-- ./intro.sh
+- chmod +x motd.sh
+- ./motd.sh.sh or bash motd.sh
 
 
 **Enter a name you want to display, then press enter..**

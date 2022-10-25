@@ -1,14 +1,16 @@
-# Termux-simple-Intro
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&size=30&lines=☣️+Termux-simple-Intro+☣️)
+-
 
-
->**Change your termux default welcome message, to a cooler one🔥**
+>**Change your termux default welcome message, to a cooler one..**
 
 
 **INSTALLATION PROCESS**
->**👇**
 - pkg update
 - pkg upgrade
-- git clone https://github.com/blessingmwiti/termux-intro.g>
+- pkg install get
+- pkg install figlet
+- gem install lolcat
+- git clone https://github.com/poisk-ls/Termux-simple-intro.git
 - ls
 - cd termux-intro
 - chmod +x intro.sh

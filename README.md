@@ -10,11 +10,11 @@
 - pkg install get
 - pkg install figlet
 - gem install lolcat
-- git clone https://github.com/poisk-ls/Termux-simple-intro.git
+- git clone https://github.com/poisk-ls/Termux-simple-Intro.git
 - ls
 - cd termux-intro
 - chmod +x motd.sh
-- ./motd.sh.sh or bash motd.sh
+- ./poisk-ls.sh or bash poisk-ls.sh
 
 
 **Enter a name you want to display, then press enter..**

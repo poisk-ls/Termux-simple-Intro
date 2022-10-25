@@ -1,9 +1,9 @@
 #!/usr/bin/bash
-echo "Enter name"
+echo "Enter your name"
 read name
 #Copy the following code to motd.sh
 echo "echo "⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶"
-echo "echo "        Welcome to Termux $name! ☣️"
+echo Welcome to Termux $name! ☣️"
 echo "echo "⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶"
 figlet $name | lolcat
 neofetch" > motd.sh | lolcat

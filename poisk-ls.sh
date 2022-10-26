@@ -3,7 +3,7 @@ echo "Enter your name:"
 read name
 #Copy the following code to motd.sh
 echo "⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶"
-echo Welcome to Termux $name! 🥀"
+echo "Welcome to Termux $name! 🥀"
 echo "⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶"
 figlet $name | lolcat
 neofetch" > motd.sh | lolcat
